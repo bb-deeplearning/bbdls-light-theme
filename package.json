@@ -1,0 +1,21 @@
+{
+  "name": "bbdls-light",
+  "displayName": "bbdls-light",
+  "description": "bbdls light mode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bbdls-light",
+        "uiTheme": "vs",
+        "path": "./themes/bbdls-light-color-theme.json"
+      }
+    ]
+  }
+}
